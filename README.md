@@ -6,9 +6,26 @@ A mobile first hugo theme created from scratch for http://pb.co.za
 Goals of the theme
 ------------------
 
+ - Show something at all
  - Mobile first
  - Great typography
  - Visually simple
+ 
+Verifying authenticity
+----------------------
+
+I sign this repo using my GPG key and you can verify it in the normal way:
+
+```
+$ git log --show-signature -1
+commit 08486bb4f2b94c83defef61fd7435ceadb9df0b5
+gpg: Signature made Sat Jan  9 16:09:34 2016 SAST using RSA key ID 4A8618BD
+gpg: Good signature from "keybase.io/pieterbreed <pieterbreed@keybase.io>" [ultimate]
+Author: Pieter Breed <github.com@pb.co.za>
+Date:   Sat Jan 9 16:09:34 2016 +0200
+
+    deleted the theme.toml file to have something to sign
+```
 
 Usage
 -----
